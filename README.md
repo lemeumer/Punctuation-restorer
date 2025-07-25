@@ -1,4 +1,3 @@
-# Punctuation-restorer
 # Punctuation Restoration (CPU-Friendly, English Tuned)
 
 ## How to Use
